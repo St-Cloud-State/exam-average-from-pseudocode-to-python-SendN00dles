@@ -21,3 +21,7 @@ Write a Python program that:
 ---
 
 ## Expected Output Example
+Enter first score: 90
+Enter second score: 80
+Enter third score: 70
+The average score is: 80.0
