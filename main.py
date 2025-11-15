@@ -17,6 +17,7 @@ Print each score to show the user
 "score 3: "
 Find the average of three scores
 "The average score is: "
+First Commit
 """
 #define function for average scores
 def calculate_average(one, two, three):
@@ -57,4 +58,5 @@ def main ():
 #call main
 main()
 
+#second commit
   
